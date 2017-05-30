@@ -1,0 +1,24 @@
+a:link {
+    text-decoration: none;
+    color: #008B45;
+}
+
+a:hover {
+    color: #00FF00;
+}
+
+a:visited {
+    color: #EE9A00;
+}
+
+a:first-child {
+    color: #CDBE70;
+}
+
+a:nth-child(2) {
+    font-family: Tahoma;
+}
+
+a:nth-child(3) {
+    color: #FFC125;
+}
